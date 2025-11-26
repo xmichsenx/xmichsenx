@@ -1,5 +1,5 @@
 # Hi👋
-I'm a software engineer focused on building reliable backend systems, automation, and cloud-based solutions.
+I'm a software engineer focused on building reliable systems, automation, and cloud-based solutions.
 
 ### Tech Stack
 

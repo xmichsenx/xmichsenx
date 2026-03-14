@@ -1,10 +1,21 @@
-# Hi👋
-I'm a software engineer focused on building reliable systems, automation, and cloud-based solutions.
+# Hi 👋
+I'm a Software Engineer focused on backend systems, automation and data processing.
 
-### Tech Stack
+I enjoy building reliable services, integrations and background jobs that process large datasets, and occasionally building frontend tools.
 
-#### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=python,ts,js,mysql,nodejs,nest,react,tailwind,html,css&perline=12)](https://skillicons.dev)
+### Stack
 
-#### Cloud & Tools
-[![My Skills](https://skillicons.dev/icons?i=gcp,graphql,docker,git,postgres,postman,firebase,jenkins&perline=12)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=ts,python,nodejs,nestjs,fastapi,react,postgres,gcp,graphql,docker,git&perline=6)](https://skillicons.dev)
+
+### What I work with
+
+- backend services and APIs
+- automation & background jobs
+- data processing pipelines
+- system integrations
+
+### Currently exploring
+
+- distributed systems
+- scalable data pipelines
+- cloud architectures

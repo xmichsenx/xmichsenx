@@ -13,9 +13,3 @@ I enjoy building reliable services, integrations and background jobs that proces
 - automation & background jobs
 - data processing pipelines
 - system integrations
-
-### Currently exploring
-
-- distributed systems
-- scalable data pipelines
-- cloud architectures

@@ -13,3 +13,14 @@ I enjoy building reliable services, integrations and background jobs that proces
 - automation & background jobs
 - data processing pipelines
 - system integrations
+
+### Agentic coding
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/OpenAI_Codex-000000?style=flat)
+
+- planning & task breakdown
+- delegating code and tests, reviewing every diff
+- `CLAUDE.md` / `AGENTS.md`, custom commands, MCP
+- parallel agents in git worktrees
+- code review & debugging
